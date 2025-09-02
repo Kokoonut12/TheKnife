@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"theknife","l":"Cliente"},{"p":"theknife","l":"GestioneDati"},{"p":"theknife","l":"Menu"},{"p":"theknife","l":"Recensione"},{"p":"theknife","l":"Ricerca"},{"p":"theknife","l":"Ristorante"},{"p":"theknife","l":"Ristoratore"},{"p":"theknife","l":"TheKnife"},{"p":"theknife","l":"Utente"}];updateSearchResults();
